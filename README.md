@@ -1,0 +1,1 @@
+# Intax Tick Aggregator Plugin
